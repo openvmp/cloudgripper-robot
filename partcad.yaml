@@ -113,15 +113,15 @@ assemblies:
   Arm:
     type: assy
     desc: The robot arm
-  Drag_chain:
-    type: assy
-    desc: The robot's drag chain
-  Electronics_case:
-    type: assy
-    desc: The robot's electronics case
-  Robot:
-    type: assy
-    desc: The robot frame's parts
+  # Drag_chain:
+  #   type: assy
+  #   desc: The robot's drag chain
+  # Electronics_case:
+  #   type: assy
+  #   desc: The robot's electronics case
+  # Robot:
+  #   type: assy
+  #   desc: The robot frame's parts
 
 render:
   svg:
